@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavBusDownloader", "JavBusDownloader\JavBusDownloader.csproj", "{BF9008E2-CF78-4268-A70A-2D7A8514A50A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9008E2-CF78-4268-A70A-2D7A8514A50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9008E2-CF78-4268-A70A-2D7A8514A50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9008E2-CF78-4268-A70A-2D7A8514A50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9008E2-CF78-4268-A70A-2D7A8514A50A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ED76457-EDD7-4412-B48B-3261D0A6EB5B}
+	EndGlobalSection
+EndGlobal
