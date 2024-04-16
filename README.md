@@ -1,7 +1,7 @@
 #  JavBusDownloader
 JavBus 种子批量下载工具  
 基于[JavBus API](https://github.com/ovnrain/javbus-api) 制作
-
+### [下载地址](https://github.com/jtl1207/JavBusDownloader/releases)
 # 部署与启动
 使用前请确保网络正常,可以访问API接口与JavBus(加载图片)
 [更多部署说明](https://github.com/ovnrain/javbus-api) 
